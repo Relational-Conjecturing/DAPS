@@ -1,7 +1,7 @@
 # Preparations
 ## absolute path convention
 ```bash
-export REPO_ROOT="/ABSOLUTE/PATH/TO/SUBMIT_CODE_DAPS"
+export REPO_ROOT="/ABSOLUTE/PATH/TO/REPO_DAPS"
 ```
 
 ## core dependencies
