@@ -1,0 +1,70 @@
+{
+  "seed": 42,
+  "train_ratio": null,
+  "val_ratio": null,
+  "test_ratio": null,
+  "train": [
+    {
+      "id": "def:BoundedVariationOn",
+      "repo": "brownian-motion",
+      "full_id": "brownian-motion/def:BoundedVariationOn"
+    },
+    {
+      "id": "lem:internalCoveringNumber_subset_le",
+      "repo": "brownian-motion",
+      "full_id": "brownian-motion/lem:internalCoveringNumber_subset_le"
+    },
+    {
+      "id": "def:predictable",
+      "repo": "brownian-motion",
+      "full_id": "brownian-motion/def:predictable"
+    },
+    {
+      "id": "formulaLtOne",
+      "repo": "PrimeNumberTheoremAnd",
+      "full_id": "PrimeNumberTheoremAnd/formulaLtOne"
+    },
+    {
+      "id": "SmoothedChebyshevPull1",
+      "repo": "PrimeNumberTheoremAnd",
+      "full_id": "PrimeNumberTheoremAnd/SmoothedChebyshevPull1"
+    },
+    {
+      "id": "erdos-sol-2",
+      "repo": "PrimeNumberTheoremAnd",
+      "full_id": "PrimeNumberTheoremAnd/erdos-sol-2"
+    },
+    {
+      "id": "sumset-lower-gen",
+      "repo": "pfr",
+      "full_id": "pfr/sumset-lower-gen"
+    },
+    {
+      "id": "sign-flip",
+      "repo": "pfr",
+      "full_id": "pfr/sign-flip"
+    }
+  ],
+  "val": [
+    {
+      "id": "waste-eq",
+      "repo": "PrimeNumberTheoremAnd",
+      "full_id": "PrimeNumberTheoremAnd/waste-eq"
+    }
+  ],
+  "test": [
+    {
+      "id": "multidist-ruzsa-III",
+      "repo": "pfr",
+      "full_id": "pfr/multidist-ruzsa-III"
+    }
+  ],
+  "stats": {
+    "train_count": 8,
+    "val_count": 1,
+    "test_count": 1,
+    "sample_repo_count": 3,
+    "sample_query_count": 10
+  },
+  "note": "Sample split aligned to local_post_blue/splits.json. Query records are distributed across three repos."
+}

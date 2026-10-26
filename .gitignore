@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+
+/imo_proofbench_eval/**/outputs/
+/imo_proofbench_eval/**/*.jsonl
+/imo_proofbench_eval/**/*.csv
+/imo_proofbench_eval/**/*_summary.json
